@@ -5,6 +5,7 @@
 # 自我介绍
 
 我是阿豪, 我经常玩的游戏是
+
 * CSGO
 * PUBG
 * 马里奥
@@ -15,12 +16,14 @@
 2. fnc
 3. NAVI
 
-学过的编程语言有`html` `css` `javascript`
+学过的编程语言有 `html` `css` `javascript`
 
 但是我好菜
 
-```function fn1() {
+```
+function fn1() {
   console.log('hello github');
 }
 fn1()
+
 ```
